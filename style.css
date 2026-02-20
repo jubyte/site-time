@@ -38,8 +38,8 @@ body {
 
 .img-noticia {
     padding: 10px;
-    max-width: 400px;
-    height: auto;
+    max-width: 600px;
+    height: 300px;
     border: 2px;
     border-radius: 2px;
 }
@@ -49,6 +49,32 @@ p, h3 {
     padding-top: 1px;
     padding-bottom: 1px;
     margin: 10;
+}
+
+.escalacao{
+    text-align: center;
+    background-color: rgb(94, 138, 209);
+    margin: 40px;
+}
+
+#h-escalacao{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+#jogadores{
+   display: flex;
+   align-items: flex-start;
+   justify-content: space-around;
+}
+.jogador{
+    text-align: center;
+    
+}
+
+#icon_jogador{
+    width: 52px;
 }
 
 footer {
