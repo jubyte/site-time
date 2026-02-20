@@ -50,3 +50,12 @@ p, h3 {
     padding-bottom: 1px;
     margin: 10;
 }
+
+footer {
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 5px;
+        background-color: #00630d6b;
+        color: rgb(255, 241, 178);
+        margin-top: 20px;
+    }
