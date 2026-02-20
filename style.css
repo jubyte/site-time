@@ -53,7 +53,7 @@ p, h3 {
 
 .escalacao{
     text-align: center;
-    background-color: rgb(94, 138, 209);
+    background-color: rgba(133, 108, 0, 0.548);
     margin: 40px;
 }
 
@@ -69,12 +69,12 @@ p, h3 {
    justify-content: space-around;
 }
 .jogador{
-    text-align: center;
-    
+    text-align: center;  
 }
 
 #icon_jogador{
-    width: 52px;
+    width: 150px;
+    height: auto;
 }
 
 footer {
@@ -85,3 +85,8 @@ footer {
         color: rgb(255, 241, 178);
         margin-top: 20px;
     }
+
+h5 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1a1500;
+}
